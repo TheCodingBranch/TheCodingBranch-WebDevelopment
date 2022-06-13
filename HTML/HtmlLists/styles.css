@@ -1,0 +1,16 @@
+/* ol{
+    margin: 0 auto;
+} */
+h1{
+    text-align: center;
+}
+ul{
+  display: table;
+  margin: 0 auto;
+}
+
+ol{
+    display: table;
+    margin: 0 auto;
+    margin-bottom: 15px;
+  }
