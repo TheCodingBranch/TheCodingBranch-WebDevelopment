@@ -1,0 +1,18 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    margin:  10px 0 10px 0;
+}
+
+button{
+    margin-top: 10px;
+}
+
+.multi-choice{
+    margin: 0 10px 0 10px;
+}
