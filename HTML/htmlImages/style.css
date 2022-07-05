@@ -1,0 +1,24 @@
+body{
+    background-color: #262626;
+}
+div{
+    text-align: center;
+}
+
+button{
+    border: solid 2px #F2059F;
+    border-radius: 5px;
+    width: 400px;
+    height: 45px;
+    background-color: #262626;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+    font-size: 1.25rem;
+}
+
+img{
+    margin-top: 50px;
+    border: solid 2px #F2059F;
+    border-radius: 5px;
+}
