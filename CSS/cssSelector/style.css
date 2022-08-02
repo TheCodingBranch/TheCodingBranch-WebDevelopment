@@ -1,0 +1,40 @@
+.square{
+    background-color: lightpink;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.circle{
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 100%;
+
+}
+
+#red:hover{
+    background-color: red;
+}
+
+.blue:hover{
+    background-color: blue;
+}
+
+
+
+div{
+    background-color:rgb(109, 78, 138);
+    width:300px;
+    height:300px;
+    border: solid 1px black;
+    color: white;
+    margin-top: 10px;
+}
+
+div{
+    background-color:rgb(180, 171, 189);
+}
