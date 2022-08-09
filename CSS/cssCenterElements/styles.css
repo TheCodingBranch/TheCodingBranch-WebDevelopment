@@ -1,0 +1,30 @@
+/* -------------------------------------- center text ---------------------------------------------- */
+.center-text{
+    text-align: center;
+}
+
+/* -------------------------------------- center div with flex ------------------------------------- */
+.center-div{
+    display: flex;
+    justify-content: center;
+}
+
+/* -------------------------------------- center image with margin ------------------- */
+img{ 
+    width: 150px;
+    display:block;
+    margin: 0 auto;
+}
+
+/* -------------------------------------- center div using grid ------------------------------------ */
+.center-using-grid{
+    display: grid;
+    place-items: center;
+}
+
+/* -------------------------------------- center vertically and horizontally ----------------------- */
+.center-vertically-and-horizontally{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
