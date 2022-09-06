@@ -1,0 +1,23 @@
+.parent {
+    border: black solid 1px;
+    min-height: 120vh;
+    text-align: center;
+    font-weight: bold;
+}
+
+.red {
+    background-color: red;
+    height: 50px;
+}
+
+.white {
+    background-color: white;
+    height: 50px;
+}
+
+.blue {
+    background-color: blue;
+    height: 50px;
+    position: sticky;
+    top: 150px;
+}
