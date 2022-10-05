@@ -1,0 +1,7 @@
+clear – clear all code from screen
+ls – list current directory
+cd – change directory
+touch – create file
+mkdir – create folder
+rm -r – remove file or folder recursively 
+nano – edit file in nano text editor
